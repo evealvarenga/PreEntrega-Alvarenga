@@ -5,7 +5,8 @@
   "main": "ProductManager.js",
   "type": "module",
   "scripts": {
-    "start": "node src/app.js"
+    "start": "node src/ProductManager.js",
+    "server": "nodemon src/app.js"
   },
   "keywords": [],
   "author": "Evelyn Alvarenga",
